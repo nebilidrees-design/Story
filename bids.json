@@ -1,0 +1,42 @@
+{
+  "LAPTOP": {
+    "condition": "New",
+    "base price": 500000,
+    "status": "AVAILABLE"
+  },
+  "WATCH": {
+    "condition": "Used",
+    "base price": 150000,
+    "status": "AVAILABLE"
+  },
+  "PHONE": {
+    "condition": "New",
+    "base price": 800000,
+    "status": "CLOSED"
+  },
+  "TABLET": {
+    "condition": "Used",
+    "base price": 450000,
+    "status": "AVAILABLE"
+  },
+  "CAMERA": {
+    "condition": "New",
+    "base price": 1200000,
+    "status": "AVAILABLE"
+  },
+  "HEADPHONES": {
+    "condition": "New",
+    "base price": 250000,
+    "status": "AVAILABLE"
+  },
+  "PLAYSTATION": {
+    "condition": "Used",
+    "base price": 900000,
+    "status": "AVAILABLE"
+  },
+  "SMARTWATCH": {
+    "condition": "New",
+    "base price": 300000,
+    "status": "AVAILABLE"
+  }
+}

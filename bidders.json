@@ -1,0 +1,24 @@
+{
+  "BID-778711": {
+    "name": "lutaaya",
+    "contact": "+256708348104",
+    "bidding_history": []
+  },
+  "BID-841992": {
+    "name": "idris",
+    "contact": "+256741526592",
+    "bidding_history": [
+      {
+        "item_name": "PHONE",
+        "bid_amount": 850000.0,
+        "status": "WON",
+        "date": "20 August 2026"
+      }
+    ]
+  },
+  "BID-459406": {
+    "name": "idris",
+    "contact": "+256741526593",
+    "bidding_history": []
+  }
+}
